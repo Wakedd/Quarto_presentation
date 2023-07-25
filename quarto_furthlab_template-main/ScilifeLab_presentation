@@ -1,0 +1,73 @@
+---
+title: "Summer 2023 
+SciLifeLab" 
+
+format: revealjs
+slide-number: true
+    
+editor: visual
+---
+
+## `Introduction of me: :)` <br><br>
+
+- &nbsp;&nbsp;  Biomedicine  <br><br>
+- &nbsp;&nbsp;  22 years , born in Syria <br><br>
+- &nbsp;&nbsp; Football: ⚽ Tennis: 🎾  Piano: 🎹  
+
+## `How i ended up here on my bachelor's ? `<br><br> 
+
+
+- &nbsp;&nbsp;Medical genetic course 🧬 <br><br> 
+   - took contact with Daniel`<br><br> 
+
+- <span style="color: blue;">Huge interest and curiosity for cell biology 🦠 and physiology 🧠 🫀 🫁</span>
+
+
+## `The idea behinde the project:`
+- Our current understanding of memory 
+
+
+<img src= "/images/Dont_forget_to_remember.png" style="height: 600px; margin-top: -20px;"></img>
+
+
+
+## `Synapse building and plasticity regarding memory formation: `
+    
+  - LTP (long term potentiation: ), strong exciting through: 
+
+    . AMPA receptor activation INDEPENDENT of protein synthesis --> fast responce 
+
+    . Gene transkription --> slow responce 
+
+  - The transformation from short-term memory to long-term memory 
+
+
+## `Although ...` 
+  <br>
+ - <img src= "/images/molecular_turnover.png" style="height: 600px; margin-top: -50px;"></img>
+
+         Francis Crick is at the Salk Institute for Biological Studies, 10010 N. Torrey Pines Road, La Jolla, California 91037, USA 
+
+## `Peopls thoughts on a time-line: ` <br> 
+
+1906 - Jennings HS. "he essential point seems to be that after experience the organism reacts in a more effective way than before. The change is regulatory, not merely haphazard
+" <br><br>
+1911 - Day LM, Bentley M."With repeated trials, the Paramecia increased the speed with which they achieved reversal" <br> <br>
+
+1979 - Hennessey TM, Rucker WB, McDiarmid CG. "Tesed aversive uncondi- tioned stimuli such as shock or heat"<br><br> 
+2006 - Rmus HL, Montgomery AR, Gurney RL "Showed that Paramecia learned to associate the location of cathodal stimulation (which exerted an attractive effect) with a light-conditioned stimulus" 
+
+## `what i did this summer : `
+
+- Since almost every tool is "handmade", it took a while getting things up and running. 
+
+    . Raspberry Pi- openCV- CONDA- etc... <brb>
+- Taking care of my own cell culture  <brb>
+
+    . Paramecium eat bacteria  
+    . Bacterium eat wheat-grass 
+
+
+
+
+
